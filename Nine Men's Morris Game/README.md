@@ -1,9 +1,16 @@
 # Nine Men's Morris Game
 **Technology: MiniMax Algorithm, Alpha-Beta Pruning.**
 
-Nine Men's Morris Game The program consists of eight python files. There are two phases in the game: Opening and End/Mid Game. MiniMaxOpening: Implements the MiniMax algorithm to find the next move in the Opening Phase of game for white. MiniMaxGame: Implements the MiniMax algorithm to find the next move in the Mig/End Phase of game for white. MiniMaxOpeningBlack:Implements the MiniMax algorithm to find the next move in the Opening Phase of game for black. 
-
-MiniMaxGameBlack:Implements the MiniMax algorithm to find the next move in the Mig/End Phase of game for black. MiniMaxOpeningImproved:Implements the MiniMax algorithm with Improvement to find the next move in the Opening Phase of game for white. MiniMaxGameImproved:Implements the MiniMax algorithm with Improvement to find the next move in the Mig/End Phase of game for white. ABOpening:Implements the AB algorithm to find the next move in the Opening Phase of game for white. ABGame:Implements the AB algorithm to find the next move in the Mig/End Phase of game for white.
+The program consists of eight python files. 
+There are two phases in the game: Opening phase of the game and End/Mid Game, for each phase:
+MiniMaxOpening: Implements the MiniMax algorithm to find the next move in the Opening Phase of game for white. 
+MiniMaxGame: Implements the MiniMax algorithm to find the next move in the Mig/End Phase of game for white. 
+MiniMaxOpeningBlack:Implements the MiniMax algorithm to find the next move in the Opening Phase of game for black. 
+MiniMaxGameBlack:Implements the MiniMax algorithm to find the next move in the Mig/End Phase of game for black. 
+MiniMaxOpeningImproved:Implements the MiniMax algorithm with Improvement to find the next move in the Opening Phase of game for white. 
+MiniMaxGameImproved:Implements the MiniMax algorithm with Improvement to find the next move in the Mig/End Phase of game for white. 
+ABOpening:Implements the AB algorithm to find the next move in the Opening Phase of game for white. 
+ABGame:Implements the AB algorithm to find the next move in the Mig/End Phase of game for white.
 
 The program takes three agruments: board1.txt board2.txt 2
 

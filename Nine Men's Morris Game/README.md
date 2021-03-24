@@ -22,7 +22,7 @@ ABGame:Implements the AB algorithm to find the next move in the Mig/End Phase of
 
 The program takes three agruments: board1.txt board2.txt 2
 
-board1.txt: input board position board2.txt: output file location 2: depth upto which the algorithm should run
+where board1.txt is the input board position, board2.txt is the output file location and 2 is the depth upto which the algorithm should run
 
 Examples:
   1. First program: MiniMaxOpening The first program plays a move in the opening phase of the game. For example, the input can be: (you type:) board1.txt board2.txt 2 (the program replies:) Board Position: xxxxxxxxxWxxWxxxBxxxxxx Positions evaluated by static estimation: 9. MINIMAX estimate: 9987. Here it is assumed that the file board1.txt content is: xxxxxxxxxWxxxxxxBxxxxxx The file board2.txt is created by the program, and its content is: xxxxxxxxxWxxWxxxBxxxxxx

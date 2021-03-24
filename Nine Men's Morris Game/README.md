@@ -1,8 +1,7 @@
 # Nine Men's Morris Game
 **Technology: MiniMax Algorithm, Alpha-Beta Pruning.**
 
-The program consists of eight python files. 
-There are two phases in the game: Opening phase of the game and End/Mid Game, for each phase:
+The program consists of eight python files:
 
 MiniMaxOpening: Implements the MiniMax algorithm to find the next move in the Opening Phase of game for white. 
 

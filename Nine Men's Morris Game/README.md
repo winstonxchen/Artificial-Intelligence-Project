@@ -21,7 +21,6 @@ ABOpening:Implements the AB algorithm to find the next move in the Opening Phase
 ABGame:Implements the AB algorithm to find the next move in the Mig/End Phase of game for white.
 
 The program takes three agruments: board1.txt board2.txt 2
-
 where board1.txt is the input board position, board2.txt is the output file location and 2 is the depth upto which the algorithm should run
 
 Examples:

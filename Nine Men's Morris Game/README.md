@@ -1,5 +1,5 @@
 # Nine Men's Morris Game
-**Technology: Python,Max Algorithm, Alpha-Beta Pruning.**
+**Technology: Python,Min-Max Algorithm, Alpha-Beta Pruning.**
 
 
 The program consists of eight python files:
